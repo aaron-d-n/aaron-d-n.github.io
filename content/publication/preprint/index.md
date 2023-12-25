@@ -1,8 +1,9 @@
 ---
-title: "An example preprint / working paper"
+title: "Truth is Warranted: Information Warrants Increase the Discernment of Truth and Reduce the Spread of False News"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+- Rand, D., Pennycook, G., Mazar, N., Van Alstyne, M.,  & nine other researchers
+date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
