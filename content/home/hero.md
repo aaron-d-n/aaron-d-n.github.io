@@ -37,9 +37,9 @@ hero_media = "AaronNichols_BU_Headshot2.jpg"
   url = "#about"
   label = "Know more"
   
-[btn_alt]
-  url = "#contact"
-  label = "Contact me"
+# [btn_alt]
+#   url = "#contact"
+#   label = "Contact me"
 
 +++
 ## **Hey**, I’m **Aaron D. Nichols**
