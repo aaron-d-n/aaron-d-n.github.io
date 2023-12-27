@@ -46,4 +46,4 @@ hero_media = "AaronNichols_BU_Headshot2.jpg"
 
 PhD Candidate in Marketing \
 Questrom School of Business, Boston University \
-ORC-ID: 0000-0003-2536-5850
+ORC-ID: [0000-0003-2536-5850](https://orcid.org/0000-0003-2536-5850)
