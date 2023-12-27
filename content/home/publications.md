@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 35  # Order that this section will appear.
 
 title = "Research Papers"
-subtitle = "ORCID: 0000-0003-2536-5850"
+subtitle = "ORCID: [0000-0003-2536-5850](https://orcid.org/0000-0003-2536-5850)"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
