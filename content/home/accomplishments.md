@@ -60,7 +60,7 @@ date_format = "2006"
   
 [[item]]
   organization = "Impact Measurement & Allocation Program (IMAP)"
-  organization_url = ""
+  organization_url = "https://www.bu.edu/imap/"
   title = "Proof of Concept Award – $20,000, 10 Months"
   url = ""
   certificate_url = ""
