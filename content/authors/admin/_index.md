@@ -43,7 +43,7 @@ education:
 # resume download button
 btn:
 - url : "/files/cv.pdf"
-  label : "Download Resume"
+  label : "Download CV"
 
 # Social/academia Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
