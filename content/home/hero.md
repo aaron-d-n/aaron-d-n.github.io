@@ -35,7 +35,7 @@ hero_media = "AaronNichols_BU_Headshot2.jpg"
 #   Remove a link/note by deleting a cta/note block.
 [btn]
   url = "#about"
-  label = "Know more"
+  label = "Learn more"
   
 # [btn_alt]
 #   url = "#contact"
