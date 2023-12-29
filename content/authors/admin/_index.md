@@ -1,7 +1,6 @@
 ---
 # Display name
 name: Aaron D. Nichols
-avatar_image: "AaronNichols_BU_Headshot2.jpg"
 # Username (this should match the folder name)
 authors:
 - admin
