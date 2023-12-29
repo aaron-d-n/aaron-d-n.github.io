@@ -1,8 +1,9 @@
 ---
 title: "Moral Licensing: An Empirical Audit and Review"
 authors:
+- Moore, D., Nelson, L., with
 - admin
-- Moore, D., Nelson, L., & 21 other researchers
+- and 22 other researchers
 date: ""
 doi: ""
 
