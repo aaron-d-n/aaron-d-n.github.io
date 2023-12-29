@@ -17,7 +17,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Nature Human Behaviour"
+publication: "Journal of Experimental Psychology: Applied"
 publication_short: ""
 
 abstract: Psychologists, economists, and philosophers have long argued that in environments where deception is normative, moral behavior is harmed. In this article, we show that individuals making decisions within minimally deceptive environments do not behave more dishonestly than in nondeceptive environments. We demonstrate the latter using an example of experimental deception within established institutions, such as laboratories and institutional review boards. We experimentally manipulated whether participants received information about their deception. Across three well-powered studies, we empirically demonstrate that minimally deceptive environments do not affect downstream dishonest behavior. Only when participants were in a minimally deceptive environment and aware of being observed, their dishonest behavior decreased. Our results show that the relationship between deception and dishonesty might be more complicated than previous interpretations have suggested and expand the understanding of how deception might affect (im)moral behavior. We discuss possible limitations and future directions as well as the applied nature of these findings.
