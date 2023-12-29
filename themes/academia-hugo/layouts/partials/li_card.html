@@ -24,6 +24,8 @@ $item.Summary }} {{ else }} {{ $summary = $item.Content }} {{ end }}
       itemprop="image"
       alt=""
     />
+    {{ with $.Params.image.caption }}<span
+          class="article-header-caption">{{ . | markdownify | emojify }}</span>{{ end }}
   </a>
   {{end}}
 
@@ -43,6 +45,7 @@ $item.Summary }} {{ else }} {{ $summary = $item.Content }} {{ end }}
         $item.Params.date_end }} &mdash; {{ (time .).Format
         (site.Params.time_format | default "3:04 PM") }} {{ end }} {{ end }}
       </span>
+      <span>hello</span>
       {{ with $item.Params.location }}
       <span class="middot-divider"></span>
       <span itemprop="location">{{ . }}</span>
