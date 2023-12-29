@@ -19,19 +19,15 @@ publication_types: ["2"]
 publication: "Nature Human Behaviour"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Increasing workplace diversity is a common goal. Given research showing that minority applicants anticipate better treatment in diverse workplaces, we ran a field experiment (N = 1,585 applicants, N = 31,928 website visitors) exploring how subtle organizational diversity cues affected applicant behaviour. Potential applicants viewed a company with varying levels of racial/ethnic or gender diversity. There was little evidence that racial/ethnic or gender diversity impacted the demographic composition or quality of the applicant pool. However, fewer applications were submitted to organizations with one form of diversity (that is, racial/ethnic or gender diversity), and more applications were submitted to organizations with only white men employees or employees diverse in race/ethnicity and gender. Finally, exploratory analyses found that female applicants were rated as more qualified than male applicants. Presenting a more diverse workforce does not guarantee more minority applicants, and organizations seeking to recruit minority applicants may need stronger displays of commitments to diversity.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags:
-- Source Themes
-featured: false
+summary: ""
 
 # links:
 # - name: ""
 #   url: ""
-# url_pdf: https://arxiv.org/pdf/1512.04133v1
+url_pdf: ""
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
@@ -61,13 +57,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo academia's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).

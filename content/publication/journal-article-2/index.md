@@ -19,19 +19,15 @@ publication_types: ["2"]
 publication: "PLOS ONE, 15(8)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Although scientists agree that replications are critical to the debate on the validity of religious priming research, religious priming replications are scarce. This paper attempts to replicate and extend previously observed effects of religious priming on ethical behavior. We test the effect of religious instrumental music on individuals’ ethical behavior with university participants (N = 408) in the Czech Republic, Japan, and the US. Participants were randomly assigned to listen to one of three musical tracks (religious, secular, or white noise) or to no music (control) for the duration of a decision-making game. Participants were asked to indicate which side of a vertically-bisected computer screen contained more dots and, in every trial, indicating that the right side of the screen had more dots earned participants the most money (irrespective of the number of dots). Therefore, participants were able to report dishonestly to earn more money. In agreement with previous research, we did not observe any main effects of condition. However, we were unable to replicate a moderating effect of self-reported religiosity on the effects of religious music on ethical behavior. Nevertheless, further analyses revealed moderating effects for ritual participation and declared religious affiliation congruent with the musical prime. That is, participants affiliated with a religious organization and taking part in rituals cheated significantly less than their peers when listening to religious music. We also observed significant differences in cheating behavior across samples. On average, US participants cheated the most and Czech participants cheated the least. We conclude that normative conduct is, in part, learned through active membership in religious communities and our findings provide further support for religious music as a subtle, moral cue.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags:
-- Source Themes
-featured: false
+summary: ""
 
 # links:
 # - name: ""
   # url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: ""
 # url_code: 
 # url_dataset: ''
 # url_poster: ''
@@ -62,12 +58,3 @@ projects: []
 # slides: example
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo academia's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).

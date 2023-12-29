@@ -20,19 +20,15 @@ publication_types: ["2"]
 publication: "Nature Human Behaviour"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Psychologists, economists, and philosophers have long argued that in environments where deception is normative, moral behavior is harmed. In this article, we show that individuals making decisions within minimally deceptive environments do not behave more dishonestly than in nondeceptive environments. We demonstrate the latter using an example of experimental deception within established institutions, such as laboratories and institutional review boards. We experimentally manipulated whether participants received information about their deception. Across three well-powered studies, we empirically demonstrate that minimally deceptive environments do not affect downstream dishonest behavior. Only when participants were in a minimally deceptive environment and aware of being observed, their dishonest behavior decreased. Our results show that the relationship between deception and dishonesty might be more complicated than previous interpretations have suggested and expand the understanding of how deception might affect (im)moral behavior. We discuss possible limitations and future directions as well as the applied nature of these findings.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags:
-- Source Themes
-featured: false
+summary: ""
 
 # links:
 # - name: ""
   # url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: ""
 # url_code: 
 # url_dataset: ''
 # url_poster: ''
@@ -63,12 +59,3 @@ projects: []
 # slides: example
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo academia's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
