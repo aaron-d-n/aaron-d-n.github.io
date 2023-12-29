@@ -28,7 +28,9 @@ $item.Summary }} {{ else }} {{ $summary = $item.Content }} {{ end }}
   {{end}}
 
   <div class="card-body">
-    <h6 class="article-title mb-1 mt-0" itemprop="name">{{ $item.Title }}</h6>
+    <h6 class="article-title mb-1 mt-0" itemprop="name">
+      <a href="{{ $item.RelPermalink }}" itemprop="url">{{ $item.Title }}</a>
+    </h6>
     {{ if eq $item.Type "talk" }}
     <div class="article-metadata">
       {{ if $item.Params.authors }}
