@@ -1,9 +1,8 @@
 ---
-title: "Does being paid hourly vs. yearly change how you save?"
+title: "A field study of the impacts of workplace diversity on the recruitment of minority group members"
 authors:
 - admin
-- Ariely, D.
-date: "2016-06-27T00:00:00Z"
+date: "2023-10-30T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +18,7 @@ publication_types: ["9"]
 publication: ""
 publication_short: ""
 
-abstract: "The majority of all workers in the United States were paid hourly last year. Typically, hourly wage earners have low incomes and are vulnerable to economic shocks. So we wondered, does being paid hourly instead of yearly somehow change the way people view themselves and their work?"
+abstract: "Increasing workplace diversity is a popular yet elusive goal for many employers. How can organizations encourage applications from talented employees that come from all walks of life? In this work, we investigate how workplace diversity cues affect the quality and background of applicants."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -33,7 +32,7 @@ links:
 # url_poster: '#'
 # url_project: ''
 # url_slides: ''
-url_source: https://www.pbs.org/newshour/economy/does-being-paid-hourly-vs-yearly-change-how-you-save
+url_source: https://communities.springernature.com/posts/a-field-study-of-the-impacts-of-workplace-diversity-on-the-recruitment-of-minority-group-members
 # url_video: '#'
 
 # Featured image
