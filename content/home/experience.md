@@ -18,26 +18,13 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Instructor - Marketing Research (MK447)"
-  company = "Boston University"
-  company_url = ""
-  time = "Summer 2022"
-  location = "Boston"
-  date_start = "2022-01-01"
-  date_end = ""
-  description = """
-  Level: Undergraduate,
-  Earned highest possible (5.0/5.0) instructor and course evaluation
-  """
-
-[[experience]]
   title = "Course Assistant - Ethical Leadership in the Global Economy (MG730)"
   company = "Boston University"
   company_url = ""
   time = "Fall 2020 | Fall 2021 | Spring 2023"
   location = "Boston"
-  date_start = "2020-01-01"
-  date_end = "2023-01-01"
+  date_start = "2023-08-01"
+  date_end = "2023-08-31"
   description = """
   Level: MBA, Instructor: Professor Nina Mazar
   Responsibilities include:
@@ -47,13 +34,26 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
+  title = "Instructor - Marketing Research (MK447)"
+  company = "Boston University"
+  company_url = ""
+  time = "Summer 2022"
+  location = "Boston"
+  date_start = "2022-07-01"
+  date_end = "2022-08-31"
+  description = """
+  Level: Undergraduate,
+  Earned highest possible (5.0/5.0) instructor and course evaluation
+  """
+
+[[experience]]
   title = "Teaching Assistant - Marketing Research (MK447)"
   company = "Boston University"
   company_url = ""
   time = "Spring 2022"
   location = "Boston"
   date_start = "2022-01-01"
-  date_end = "2022-06-30"
+  date_end = "2022-05-31"
   description = """
   Level: Undergraduate, Instructor: Professor Daniella Kupor,
   Responsibilities include:
