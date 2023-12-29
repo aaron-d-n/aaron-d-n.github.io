@@ -46,10 +46,16 @@ $item.Summary }} {{ else }} {{ $summary = $item.Content }} {{ end }}
       <span itemprop="location">{{ . }}</span>
       {{ end }}
     </div>
-    {{ else }} {{ partial "page_metadata" (dict "page" $item "is_list" 1) }} {{
-    end }} {{/* {{ with $summary }}
-    <div class="article-style" itemprop="articleBody">{{ . }}</div>
-    */}} {{/* {{ end }} */}} {{ if $show_buttons }}
+    {{ else }} 
+    {{ partial "page_metadata" (dict "page" $item "is_list" 1) }} 
+    {{ end }} 
+  {{ with $summary }}
+    <div style="display: -webkit-box; -webkit-line-clamp: var(--line-clamp, 3); -webkit-box-orient: vertical; word-break: var(--word-break, 'none'); overflow: hidden; "class="article-style" itemprop="articleBody">
+      {{ . }}
+    </div>
+    {{ end }}
+
+    {{ if $show_buttons }}
     <div class="btn-links">
       {{ partial "page_links" (dict "page" $item "is_list" 1) }}
     </div>
