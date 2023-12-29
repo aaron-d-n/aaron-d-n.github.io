@@ -1,7 +1,8 @@
 ---
-title: "A field study of the impacts of workplace diversity on the recruitment of minority group members"
+title: "When More for You, Feels Like Less for Me: How Consumers Respond to Inclusive Policies"
 authors:
 - admin
+- Trudel, R., & Mazar, N.
 date: ""
 doi: ""
 
@@ -11,14 +12,14 @@ publishDate: ""
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent; 9 = Popular Press
-publication_types: ["9"]
+# 7 = Thesis; 8 = Patent; 9 = Popular Press; 10 = Selected Research In Progress
+publication_types: ["10"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
 publication_short: ""
 
-abstract: "Increasing workplace diversity is a popular yet elusive goal for many employers. How can organizations encourage applications from talented employees that come from all walks of life? In this work, we investigate how workplace diversity cues affect the quality and background of applicants."
+abstract: ""
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -32,7 +33,7 @@ links:
 # url_poster: '#'
 # url_project: ''
 # url_slides: ''
-url_source: https://communities.springernature.com/posts/a-field-study-of-the-impacts-of-workplace-diversity-on-the-recruitment-of-minority-group-members
+# url_source: ''
 # url_video: '#'
 
 # Featured image

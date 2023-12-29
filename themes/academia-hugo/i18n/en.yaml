@@ -172,6 +172,9 @@
 - id: pub_popular_press
   translation: Popular Press
 
+- id: pub_selected_research_in_progress
+  translation: Selected Research in Progress
+
 # Project details
 
 - id: open_project_site
