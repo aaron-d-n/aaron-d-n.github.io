@@ -5,7 +5,7 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 35  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
 title = "Research"
 subtitle = "ORCID: [0000-0003-2536-5850](https://orcid.org/0000-0003-2536-5850)"
