@@ -40,7 +40,7 @@ url_pdf: ""
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Journal Article'
+  caption: 'Journal Article, 2020'
   focal_point: ""
   preview_only: false
 

@@ -39,7 +39,7 @@ url_source: https://communities.springernature.com/posts/a-field-study-of-the-im
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Popular Press'
+  caption: 'Popular Press, 2023'
   focal_point: ""
   preview_only: false
 
