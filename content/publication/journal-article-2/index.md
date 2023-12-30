@@ -5,6 +5,7 @@ authors:
 - Lang, M., Kavanagh, C., Kundt, R., Yamada, J., Ariely, D., & Mitkidis, P.
 date: "2020-09-01T00:00:00Z"
 doi: "https://doi.org/10.1371/journal.pone.0237007"
+weight: 7
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""

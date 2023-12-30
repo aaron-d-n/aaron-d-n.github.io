@@ -6,6 +6,7 @@ authors:
 - and 22 other researchers
 date: ""
 doi: ""
+weight: 1
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"

@@ -5,6 +5,7 @@ authors:
 - Cadario, R., & Mazar, N.
 date: ""
 doi: ""
+weight: 2
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"

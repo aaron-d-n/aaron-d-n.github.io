@@ -5,6 +5,7 @@ authors:
 - Trudel, R., & Mazar, N.
 date: ""
 doi: ""
+weight: 4
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""

@@ -6,6 +6,7 @@ authors:
 - Krajčíková, L., & Xygalatas, D.
 date: "2016-09-01T00:00:00Z"
 doi: "https://doi.org/10.3389%2Ffpsyg.2016.00814"
+weight: 6
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""

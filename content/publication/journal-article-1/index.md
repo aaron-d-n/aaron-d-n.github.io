@@ -6,6 +6,7 @@ authors:
 - Elbæk, C. T., Gerlach, P., & Ariely, D.
 date: "2023-09-01T00:00:00Z"
 doi: "https://doi.org/10.1037/xap0000476"
+weight: 8
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""

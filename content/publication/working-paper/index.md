@@ -5,6 +5,7 @@ authors:
 - Rand, D., Pennycook, G., Mazar, N., Van Alstyne, M., & nine other researchers
 date: ""
 doi: ""
+weight: 3
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
