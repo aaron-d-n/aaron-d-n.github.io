@@ -68,7 +68,7 @@ target = '$1'
   hrefTargetBlank = true  # `true` opens external links in a new tab. See https://github.com/gohugoio/hugo/issues/2424
 	angledQuotes = false
 	latexDashes = true
-  extensions = ["backslashLineBreak"]
+  extensions = ["backslashLineBreak", "hardLineBreak"]
 
 [imaging]
   resampleFilter = "lanczos"

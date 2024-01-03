@@ -26,7 +26,8 @@ date_format = "Jan 2006"
   date_start = "2023-08-01"
   date_end = "2023-08-31"
   description = """
-  Level: MBA, Instructor: Professor Nina Mazar
+  Level: MBA  
+  Instructor: Professor Nina Mazar  
   Responsibilities include:
   
   * Grading
@@ -42,7 +43,7 @@ date_format = "Jan 2006"
   date_start = "2022-07-01"
   date_end = "2022-08-31"
   description = """
-  Level: Undergraduate,
+  Level: Undergraduate  
   Earned highest possible (5.0/5.0) instructor and course evaluation
   """
 
@@ -55,7 +56,8 @@ date_format = "Jan 2006"
   date_start = "2022-01-01"
   date_end = "2022-05-31"
   description = """
-  Level: Undergraduate, Instructor: Professor Daniella Kupor,
+  Level: Undergraduate  
+  Instructor: Professor Daniella Kupor  
   Responsibilities include:
   
   * Grading
