@@ -13,7 +13,7 @@ role: Marketing PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Boston University's Questrom School of Business
+- name: <br> Boston University's Questrom School of Business
   url: "https://www.bu.edu/questrom/"
 
 # Short bio (displayed in user profile at end of posts)
