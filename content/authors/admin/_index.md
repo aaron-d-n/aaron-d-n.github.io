@@ -13,7 +13,7 @@ role: Marketing PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: &#160; Boston University's Questrom School of Business
+- name:     Boston University's Questrom School of Business
   url: "https://www.bu.edu/questrom/"
 
 # Short bio (displayed in user profile at end of posts)
@@ -25,6 +25,7 @@ btn:
   label : "Download CV"
 
 ---
+
 
 **Welcome to my corner of the web!**
 
