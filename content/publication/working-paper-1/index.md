@@ -1,7 +1,7 @@
 ---
 title: "The Impact of Ethical Company Ratings on Consumer Behavior"
 authors:
-- **Nichols, A. D.** ,
+- **"Nichols, A. D."**,
 - Cadario, R., & Mazar, N.
 date: ""
 doi: ""
