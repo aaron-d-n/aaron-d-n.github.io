@@ -13,7 +13,7 @@ role: Marketing PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-- name:  Boston University's Questrom School of Business
+- name: Boston University's Questrom School of Business
   url: "https://www.bu.edu/questrom/"
 
 # Short bio (displayed in user profile at end of posts)
@@ -26,7 +26,7 @@ btn:
 
 ---
 
-Welcome to my corner of the web!
+**Welcome to my corner of the web!**
 
 My research investigates the intersection of marketing, misinformation, and social impact issues. In my primary stream of research, I test market-level interventions that help consumers better discern between true and false news, and ultimately, encourage the sharing of more true information. In a secondary stream of research, I explore how consumers react to other social issues such as the marketing of diversity and inclusion, and environmental social governance. 
 
