@@ -42,7 +42,7 @@ hero_media = "AaronNichols_BU_Headshot.jpg"
 #   label = "Contact me"
 
 +++
-## **Hey**, I’m **Aaron D. Nichols**
+## **Hello! I’m Aaron D. Nichols**
 
 PhD Candidate in Marketing \
 Questrom School of Business, Boston University \
