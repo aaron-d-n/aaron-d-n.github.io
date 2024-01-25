@@ -12,7 +12,7 @@
 
 ## Hero
 
-- To update content
+- To edit content
 
   1. Open [content/home/hero.md](https://github.com/aaron-d-n/aaron-d-n.github.io/edit/master/content/home/hero.md)
 
@@ -36,7 +36,7 @@
 
 ## About
 
-- To update content
+- To edit content
 
   1. Open [content/authors/admin/\_index.md](https://github.com/aaron-d-n/aaron-d-n.github.io/edit/master/content/authors/admin/_index.md)
 
@@ -59,6 +59,22 @@
 ## Research
 
 ## Teaching
+
+- To edit content
+
+  1. Open [content/home/experience.md](https://github.com/aaron-d-n/aaron-d-n.github.io/edit/master/content/home/experience.md)
+
+  2. Edit fields as required
+
+  3. Commit changes
+
+- To add new teaching card
+
+  1. Open [content/home/experience.md](https://github.com/aaron-d-n/aaron-d-n.github.io/edit/master/content/home/experience.md)
+
+  2. Copy & paste an entire `[[experience]]` section at the end of the file & replace content as needed (read lines **15-19** in the same file for more info)
+
+  3. Commit changes
 
 ## Accomplishments
 
