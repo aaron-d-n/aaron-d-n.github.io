@@ -44,7 +44,7 @@
 
   3. Commit changes
 
-- To update CV
+- To update CV (this will also update the CV in the nav bar)
 
   1. Click [here](https://github.com/aaron-d-n/aaron-d-n.github.io/delete/master/static/files/cv.pdf)
 
@@ -77,6 +77,22 @@
   3. Commit changes
 
 ## Accomplishments
+
+- To edit content
+
+  1. Open [content/home/accomplishments.md](https://github.com/aaron-d-n/aaron-d-n.github.io/edit/master/content/home/accomplishments.md)
+
+  2. Edit fields as required
+
+  3. Commit changes
+
+- To add new accomplisments card
+
+  1. Open [content/home/accomplishments.md](https://github.com/aaron-d-n/aaron-d-n.github.io/edit/master/content/home/accomplishments.md)
+
+  2. Copy & paste an entire `[[item]]` section at the end of the file & replace content as needed (read lines **15-19** in the same file for more info)
+
+  3. Commit changes
 
 ## Gallary
 
