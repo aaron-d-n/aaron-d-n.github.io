@@ -24,7 +24,7 @@ date_format = "2006"
   title = "Doctoral Consortium Fellow"
   url = ""
   certificate_url = ""
-  date_start = "2023-10-01"
+  date_start = "2024-06-11"
   date_end = ""
   description = ""
 
@@ -45,7 +45,7 @@ date_format = "2006"
   url = ""
   certificate_url = ""
   date_start = "2019-07-01"
-  date_end = "2023-12-21"
+  date_end = "2024-12-21"
   description = ""
 
 [[item]]
@@ -55,7 +55,7 @@ date_format = "2006"
   url = ""
   certificate_url = ""
   date_start = "2019-07-01"
-  date_end = "2023-12-21"
+  date_end = "2024-12-21"
   description = ""
   
 [[item]]
