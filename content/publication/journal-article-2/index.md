@@ -1,8 +1,7 @@
 ---
 title: "Replicating and Extending the Effects of Auditory Religious Cues on Dishonest Behavior"
 authors:
-- admin
-- Lang, M., Kavanagh, C., Kundt, R., Yamada, J., Ariely, D., & Mitkidis, P.
+- Nichols, A. D., Lang, M., Kavanagh, C., Kundt, R., Yamada, J., Ariely, D., & Mitkidis, P.
 date: "2020-09-01T00:00:00Z"
 doi: "https://doi.org/10.1371/journal.pone.0237007"
 weight: 7
