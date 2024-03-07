@@ -1,9 +1,7 @@
 ---
 title: "Morality in minimally deceptive environments"
 authors:
-- Mitkidis, P., Perkovic, S.
-- admin
-- Elbæk, C. T., Gerlach, P., & Ariely, D.
+- Mitkidis, P., Perkovic, S., Nichols, A., Elbæk, C. T., Gerlach, P., & Ariely, D.
 date: "2023-09-01T00:00:00Z"
 doi: "https://doi.org/10.1037/xap0000476"
 weight: 8
