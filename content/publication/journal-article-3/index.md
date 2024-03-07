@@ -1,9 +1,7 @@
 ---
 title: "Music As a Sacred Cue? Effects of Religious Music on Moral Behavior"
 authors:
-- Lang, M., Mitkidis, P., Kundt, R.
-- admin
-- Krajčíková, L., & Xygalatas, D.
+- Lang, M., Mitkidis, P., Kundt, R., Nichols, A., Krajčíková, L., & Xygalatas, D.
 date: "2016-09-01T00:00:00Z"
 doi: "https://doi.org/10.3389%2Ffpsyg.2016.00814"
 weight: 6
