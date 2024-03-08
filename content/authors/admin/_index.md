@@ -27,11 +27,11 @@ btn:
 ---
 **Welcome to my corner of the web!**
 
-My research investigates the intersection of marketing, misinformation, and social impact issues. In my primary stream of research, I test market-level interventions that help consumers better discern between true and false news, and ultimately, encourage the sharing of more true information. In a secondary stream of research, I explore how consumers react to other social issues such as the marketing of diversity and inclusion, and environmental social governance. 
+Can marketing science be leveraged to address important social issues facing consumers? This is the central question motivating my research and academic career, which has focused on the intersection of marketing, consumer behavior, and social impact issues. In my job market paper, I study a decentralized platform-level intervention that encourages the dissemination of true news, reduces the sharing of false news, and enhances perceptions of accuracy. In other work, I investigate interventions to address other contemporary social issues facing consumers such as the marketing of diversity and inclusion, and environmental social governance. 
 
-As an educator, I have experience teaching students of all ages across a variety of educational environments. I have taught young students (elementary and middle schoolers), young-adults (undergraduate business school students), and I have assisted graduate courses for professionals (part-time Executive MBAs and full-time MBAs). To me, teaching and mentorship are essential to being a well-rounded academic. 
+As an educator, I have experience teaching students across a variety of educational environments. I have taught young students (elementary and middle schoolers), young-adults (undergraduate business school students), and I have assisted graduate courses for professionals (part-time Executive MBAs and full-time MBAs). I believe teaching and mentorship are essential to being a well-rounded academic. 
 
-Prior to joining the Questrom School of Business, I worked as a behavioral researcher at Duke University's Social Science Research Institute. I graduated from the University of North Carolina at Chapel Hill (UNC-CH) in 2014 with a degree in psychology (B.S.), economics (B.A.), and a minor in Hebrew language. 
+Prior to joining the Questrom School of Business, I worked as a behavioral researcher at Duke University's Social Science Research Institute. I graduated from the University of North Carolina at Chapel Hill (UNC-CH) in 2014 with a degree in psychology (B.S.) and economics (B.A.). 
 
 ### Research Streams
 - Social Impact
