@@ -1,7 +1,7 @@
 ---
 title: "Certifiably True: The Impact of Self-Certification on Misinformation"
 authors:
-- Nichols, Aaron D., Nina Mazar, Tejovan Parker, Gordon Pennycook, Dave Rand., & Marshall Van Alstyne.  
+- Nichols, Aaron D., Nina Mazar, Tejovan Parker, Gordon Pennycook, Dave Rand, & Marshall Van Alstyne.  
 date: ""
 doi: ""
 weight: 3
@@ -19,10 +19,10 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: ""
+abstract: What if individuals were allowed to certify the information they shared as true? Across two pre-registered experiments, we investigated the impact of self-certification on both information producers and consumers. In Experiment 1 (N = 1,490 social media users; N = 29,800 responses), individuals were given the option to share or not share a series of 20 headlines (control) or were given an additional option to warrant the article’s claim as being true and share. Warranting an article was either unincentivized (costless warrant) or incentivized (costly warrants). Relative to the control, results indicated that merely giving sharers the option to self-certify shared information as true (costless warrants) increased their sharing of true articles, while incentivizing self-certifications increased their sharing of true articles and decreased their sharing of false articles. In Experiment 2 (N = 2,003 participants; N = 48,072 responses), individuals were presented headlines from Experiment 1 with no additional information (control), with information about whether or not the headlines were shared by another participant (control-sharing), or whether the headlines were not shared, shared with or without a warrant (costly or costless). Results indicated that both false and true headlines certified as true were perceived as more accurate by consumers relative to the control. Our findings suggest that voluntary self-certification can reduce misinformation spread and enhance information credibility, providing evidence for the efficacy of a novel mechanism for addressing misinformation.
 
 # Summary. An optional shortened abstract.
-summary: "What if individuals were allowed to certify the information they shared as true? Across two pre-registered experiments, we investigated the impact of self-certification on both information producers and consumers. In Experiment 1 (N = 1,490 social media users; N = 29,800 responses), individuals were given the option to share or not share a series of 20 headlines (control) or were given an additional option to warrant the article’s claim as being true and share. Warranting an article was either unincentivized (costless warrant) or incentivized (costly warrants). Relative to the control, results indicated that merely giving sharers the option to self-certify shared information as true (costless warrants) increased their sharing of true articles, while incentivizing self-certifications increased their sharing of true articles and decreased their sharing of false articles. In Experiment 2 (N = 2,003 participants; N = 48,072 responses), individuals were presented headlines from Experiment 1 with no additional information (control), with information about whether or not the headlines were shared by another participant (control-sharing), or whether the headlines were not shared, shared with or without a warrant (costly or costless). Results indicated that both false and true headlines certified as true were perceived as more accurate by consumers relative to the control. Our findings suggest that voluntary self-certification can reduce misinformation spread and enhance information credibility, providing evidence for the efficacy of a novel mechanism for addressing misinformation."
+summary: ""
 
 links:
 # - name: Custom Link
