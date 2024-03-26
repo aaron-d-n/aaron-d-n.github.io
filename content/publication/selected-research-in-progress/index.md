@@ -19,7 +19,7 @@ publication_types: ["10"]
 publication: ""
 publication_short: ""
 
-abstract: ""
+abstract: "Across two pre-registered experiments, we asked participants to read about a hypothetical government program and manipulated whether the program was inclusive—in particular, whether the program had funding set aside specifically for families of color. Although we did not change the amount of funding available to majority group members (i.e., Whites), our results indicate that both minority and majority consumers rated such inclusive programs as less fair. Furthermore, White participants reported being less likely to receive funding from the inclusive program. This reduction in reported funding likelihood was robust to an individual’s beliefs that life is a zero-sum game and to perceptions of program fairness. Our results build on previous literature suggesting that consumers evaluate their opportunities and fairness, in part, based on the relative distribution of resources. As such, marketers need to be cautious when communicating information about inclusive programs, particularly ones that explicitly segment benefits to meet the needs of a diverse set of consumers."
 
 # Summary. An optional shortened abstract.
 summary: ""
