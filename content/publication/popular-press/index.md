@@ -1,7 +1,7 @@
 ---
 title: "A field study of the impacts of workplace diversity on the recruitment of minority group members"
 authors:
-- admin
+- Aaron D. Nichols
 date: ""
 doi: ""
 weight: 5
