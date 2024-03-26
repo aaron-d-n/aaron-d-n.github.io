@@ -4,7 +4,7 @@ authors:
 - "Lang, Martin"
 - "Panagiotis Mitkidis"
 - "Radek Kundt"
-- "Aaron Nichols"
+- "**Aaron Nichols**"
 - "Lenka Krajčíková"
 - "and Dimitris Xygalatas"
 date: "2016-09-01T00:00:00Z"
