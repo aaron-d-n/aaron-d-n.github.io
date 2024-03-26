@@ -6,7 +6,7 @@ authors:
 - "Tejovan Parker"
 - "Gordon Pennycook"
 - "Dave Rand"
-- "Marshall Van Alstyne"
+- "and Marshall Van Alstyne"
 date: ""
 doi: ""
 weight: 3
