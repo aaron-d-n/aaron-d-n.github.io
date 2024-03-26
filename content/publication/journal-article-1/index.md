@@ -1,6 +1,12 @@
 ---
 title: "Morality in minimally deceptive environments"
-authors: Mitkidis, Panagiotis, Sonja Perkovic, Aaron Nichols, Christian T. Elbæk, Philipp Gerlach, and Dan Ariely
+authors: 
+- "Mitkidis, Panagiotis"
+- "Sonja Perkovic"
+- "Aaron Nichols"
+- "Christian T. Elbæk"
+- "Philipp Gerlach"
+- "Dan Ariely"
 date: "2024-03-01T00:00:00Z"
 doi: "https://doi.org/10.1037/xap0000476"
 weight: 8
