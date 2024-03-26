@@ -22,7 +22,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Nature Human Behaviour"
+publication: "Humanities and Social Sciences Communications"
 publication_short: ""
 
 abstract: What predicts a neighborhood’s adaptability to essential public health policies and shelter-in-place regulations that prevent the harmful spread of COVID-19? To answer this question, we present a novel application of human mobility patterns and human behavior in a network setting. We analyze 2 years of mobility data (January 2019 to December 2020) from New York City and construct weekly mobility networks between census block groups based on aggregated point-of-interest visit patterns. Our results indicate that neighborhoods’ socioeconomic and geographic characteristics play a significant role in predicting their adaptability to active shelter-in-place policies. Our simulation outcomes reveal that, alongside factors such as race, education, and income, the geographical attributes of neighborhoods, such as access to amenities that satisfy community needs are equally important factors in predicting neighborhood adaptability to public health policies. These findings offer valuable insights that can enhance urban planning strategies, thereby aiding pandemic mitigation efforts and fostering increased adaptability of urban areas in the face of exogenous shocks like the COVID-19 pandemic.
