@@ -9,7 +9,7 @@ authors:
 - "and Marshall Van Alstyne"
 date: ""
 doi: ""
-weight: 10
+weight: 12
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
