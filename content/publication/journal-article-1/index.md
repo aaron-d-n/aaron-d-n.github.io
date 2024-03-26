@@ -1,8 +1,8 @@
 ---
 title: "Morality in minimally deceptive environments"
 authors:
-- Mitkidis, P., Perkovic, S., Nichols, A., Elbæk, C. T., Gerlach, P., & Ariely, D.
-date: "2023-09-01T00:00:00Z"
+- Mitkidis, Panagiotis, Sonja Perkovic, Aaron Nichols, Christian T. Elbæk, Philipp Gerlach, and Dan Ariely
+date: "2024-03-01T00:00:00Z"
 doi: "https://doi.org/10.1037/xap0000476"
 weight: 8
 
@@ -39,7 +39,7 @@ url_pdf: ""
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Journal Article, 2023'
+  caption: 'Journal Article, 2024'
   focal_point: ""
   preview_only: false
 
