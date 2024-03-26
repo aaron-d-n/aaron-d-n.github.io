@@ -1,7 +1,6 @@
 ---
 title: "A field study of the impacts of workplace diversity on the recruitment of minority group members"
-authors:
-- Nichols, A. D. 
+authors: Nichols, A. D. 
 date: ""
 doi: [url] "https://communities.springernature.com/posts/a-field-study-of-the-impacts-of-workplace-diversity-on-the-recruitment-of-minority-group-members/"
 weight: 5
