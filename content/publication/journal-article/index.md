@@ -7,7 +7,7 @@ authors:
 - "and Dan Ariely"
 date: "2023-09-01T00:00:00Z"
 doi: "https://doi.org/10.1038/s41562-023-01731-5"
-weight: 9
+weight: 10
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
