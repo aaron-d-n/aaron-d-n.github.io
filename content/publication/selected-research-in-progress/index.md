@@ -1,8 +1,7 @@
 ---
-title: "When More for You, Feels Like Less for Me: How Consumers Respond to Inclusive Policies"
+title: "When More for You Feels Like Less for Me: How Consumers Respond to Inclusive Policies"
 authors:
-- admin
-- Trudel, R., & Mazar, N.
+- Nichols, Aaron D., Remi Trudel, and Nina Mazar
 date: ""
 doi: ""
 weight: 4
