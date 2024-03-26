@@ -1,7 +1,7 @@
 ---
 title: "Certifiably True: The Impact of Self-Certification on Misinformation"
 authors:
-- "Nichols, Aaron D."
+- "**Nichols, Aaron D.**"
 - "Nina Mazar"
 - "Tejovan Parker"
 - "Gordon Pennycook"
@@ -9,7 +9,7 @@ authors:
 - "and Marshall Van Alstyne"
 date: ""
 doi: ""
-weight: 3
+weight: 10
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
