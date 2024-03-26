@@ -50,4 +50,4 @@ Prior to joining the Questrom School of Business, I worked as a behavioral resea
 - MatLab
   
 ### Preferred Analysis Software
-R/R Studio, SPSS, JMP, LISRELL, MPLUS 
+R/R Studio, SPSS, JMP, Stata
