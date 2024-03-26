@@ -1,7 +1,7 @@
 ---
 title: "The Impact of Ethical Company Ratings on Consumer Behavior"
 authors:
-- ---**Nichols, A. D.**---, Cadario, R., & Mazar, N.
+- "**Nichols, A. D.**", Romain Cadario, and Nina Mazar
 date: ""
 doi: ""
 weight: 2
@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: ""
+abstract: "What happens when a company's ethical impact is rated and made salient to consumers? Across two pre-registered experiments, our evidence indicates that ethical impact ratings not only influence attitudes toward organizations, but also influence purportedly consequential job-recruitment preferences, and consumers’ subsequent reactions to a news article concerning the rated organization. As we continue this work, we will test this effect in a field setting."
 
 # Summary. An optional shortened abstract.
 summary: ""
