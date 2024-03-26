@@ -1,7 +1,7 @@
 ---
 title: "Replicating and Extending the Effects of Auditory Religious Cues on Dishonest Behavior"
 authors: 
-- "Nichols, Aaron D."
+- "**Nichols, Aaron D.**"
 - "Martin Lang"
 - "Christopher Kavanagh"
 - "Radek Kundt"
