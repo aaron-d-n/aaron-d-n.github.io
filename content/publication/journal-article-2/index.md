@@ -7,7 +7,7 @@ authors:
 - "Radek Kundt"
 - "Junko Yamada"
 - "Dan Ariely"
-- "Panagiotis Mitkidis"
+- "and Panagiotis Mitkidis"
 date: "2020-09-01T00:00:00Z"
 doi: "https://doi.org/10.1371/journal.pone.0237007"
 weight: 7
