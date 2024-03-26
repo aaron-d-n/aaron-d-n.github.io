@@ -3,7 +3,7 @@ title: "Moral Licensing: An Empirical Audit and Review"
 authors:
 - "Moore, Don"
 - "Leif Nelson"
-- "with Aaron D. Nichols and 21 other researchers"
+- "with **Aaron D. Nichols** and 21 other researchers"
 date: ""
 doi: ""
 weight: 1
