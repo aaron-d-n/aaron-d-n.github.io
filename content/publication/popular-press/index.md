@@ -3,8 +3,7 @@ title: "A field study of the impacts of workplace diversity on the recruitment o
 authors:
 - Nichols, A. D. 
 date: ""
-url:
-- https://communities.springernature.com/posts/a-field-study-of-the-impacts-of-workplace-diversity-on-the-recruitment-of-minority-group-members
+url: - https://communities.springernature.com/posts/a-field-study-of-the-impacts-of-workplace-diversity-on-the-recruitment-of-minority-group-members
 weight: 5
 
 # Schedule page publish date (NOT publication's date).
