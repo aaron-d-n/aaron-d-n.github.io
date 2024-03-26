@@ -6,7 +6,7 @@ authors:
 - "Radek Kundt"
 - "Aaron Nichols"
 - "Lenka Krajčíková"
-- "Dimitris Xygalatas"
+- "and Dimitris Xygalatas"
 date: "2016-09-01T00:00:00Z"
 doi: "https://doi.org/10.3389%2Ffpsyg.2016.00814"
 weight: 6
