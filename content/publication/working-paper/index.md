@@ -1,7 +1,7 @@
 ---
 title: "Certifiably True: The Impact of Self-Certification on Misinformation"
 authors:
-- **Nichols, Aaron D.**, Nina Mazar, Tejovan Parker, Gordon Pennycook, Dave Rand., & Marshall Van Alstyne.  
+- Nichols, Aaron D., Nina Mazar, Tejovan Parker, Gordon Pennycook, Dave Rand., & Marshall Van Alstyne.  
 date: ""
 doi: ""
 weight: 3
