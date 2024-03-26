@@ -1,5 +1,5 @@
 ---
-title: "A Field Study of the Impacts of Workplace Diversity on the Recruitment of Minority Group Members"
+title: "Investigating neighborhood adaptability using mobility networks: a case study of the COVID-19 pandemic"
 authors: 
 - "Boz, Hasan Alp"
 - "Mohsen Bahrami" 
@@ -8,7 +8,7 @@ authors:
 - "Nina Mazar"
 - "**Aaron Nichols**"
 - "and Alex Pentland"
-date: "2023-09-01T00:00:00Z"
+date: "2024-03-12T00:00:00Z"
 doi: "https://doi.org/10.1057/s41599-024-02881-1"
 weight: 9
 
