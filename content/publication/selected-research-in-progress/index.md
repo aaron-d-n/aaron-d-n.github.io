@@ -3,7 +3,7 @@ title: "When More for You Feels Like Less for Me: How Consumers Respond to Inclu
 authors:
 - "Nichols, Aaron D."
 - "Remi Trudel"
-- "Nina Mazar"
+- "and Nina Mazar"
 date: ""
 doi: ""
 weight: 4
