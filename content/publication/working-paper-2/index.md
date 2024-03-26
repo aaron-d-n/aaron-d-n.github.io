@@ -1,7 +1,7 @@
 ---
 title: "Moral Licensing: An Empirical Audit and Review"
 authors:
-- Moore, D., Leif Nelson, with Aaron D. Nichols and 21 other researchers
+- Moore, D., Leif Nelson, with Aaron D. Nichols and 21 other researchers.
 date: ""
 doi: ""
 weight: 1
