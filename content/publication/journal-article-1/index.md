@@ -3,7 +3,7 @@ title: "Morality in minimally deceptive environments"
 authors: 
 - "Mitkidis, Panagiotis"
 - "Sonja Perkovic"
-- "Aaron Nichols"
+- "**Aaron Nichols**"
 - "Christian T. Elbæk"
 - "Philipp Gerlach"
 - "and Dan Ariely"
