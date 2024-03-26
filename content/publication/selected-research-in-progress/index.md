@@ -1,7 +1,7 @@
 ---
 title: "When More for You Feels Like Less for Me: How Consumers Respond to Inclusive Policies"
 authors:
-- "Nichols, Aaron D."
+- "**Nichols, Aaron D.**"
 - "Remi Trudel"
 - "and Nina Mazar"
 date: ""
