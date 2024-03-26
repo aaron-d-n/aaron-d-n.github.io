@@ -1,6 +1,13 @@
 ---
 title: "A Field Study of the Impacts of Workplace Diversity on the Recruitment of Minority Group Members"
-authors: Nichols, Aaron D., Martin Lang, Christopher Kavanagh, Radek Kundt, Junko Yamada, Dan Ariely, and Panagiotis Mitkidis
+authors: 
+- "Nichols, Aaron D."
+- "Martin Lang"
+- "Christopher Kavanagh"
+- "Radek Kundt"
+- "Junko Yamada"
+- "Dan Ariely"
+- "Panagiotis Mitkidis"
 date: "2023-09-01T00:00:00Z"
 doi: "https://doi.org/10.1038/s41562-023-01731-5"
 weight: 9
