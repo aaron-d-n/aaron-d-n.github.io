@@ -2,7 +2,7 @@
 title: "A field study of the impacts of workplace diversity on the recruitment of minority group members"
 authors: Nichols, A. D. 
 date: ""
-doi: [url] "https://communities.springernature.com/posts/a-field-study-of-the-impacts-of-workplace-diversity-on-the-recruitment-of-minority-group-members/"
+doi: ""
 weight: 5
 
 # Schedule page publish date (NOT publication's date).
@@ -25,7 +25,7 @@ summary: ""
 
 links:
 # - name: Custom Link
-#   url: http://example.org
+#   url: https://communities.springernature.com/posts/a-field-study-of-the-impacts-of-workplace-diversity-on-the-recruitment-of-minority-group-members
 # url_pdf: http://arxiv.org/pdf/1512.04133v1
 # url_code: '#'
 # url_dataset: '#'
