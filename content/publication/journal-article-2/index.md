@@ -1,7 +1,7 @@
 ---
 title: "Replicating and Extending the Effects of Auditory Religious Cues on Dishonest Behavior"
 authors:
-- Nichols, Aaron D., Martin Lang, Christopher Kavanagh, Radek Kundt, Junko Yamada, Dan Ariely, and Panagiotis Mitkidis.
+- Nichols, A. D., Martin Lang, Christopher Kavanagh, Radek Kundt, Junko Yamada, Dan Ariely, and Panagiotis Mitkidis.
 date: "2020-09-01T00:00:00Z"
 doi: "https://doi.org/10.1371/journal.pone.0237007"
 weight: 7
