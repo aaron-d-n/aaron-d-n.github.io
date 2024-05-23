@@ -14,7 +14,7 @@ role: Marketing PhD Candidate
 # Organizations/Affiliations
 organizations:
 - name: Boston University's Questrom School of Business
-  url: "https://www.bu.edu/questrom/"
+  url: "https://www.bu.edu/questrom/profile/aaron-nichols/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research investigates the intersection of marketing, misinformation, and social impact issues.
@@ -27,7 +27,7 @@ btn:
 ---
 **Welcome to my corner of the web!**
 
-Can marketing science be leveraged to address important social issues facing consumers? This is the central question motivating my research and academic career, which has focused on the intersection of marketing, consumer behavior, and social impact issues. In my job market paper, I study a decentralized platform-level intervention that encourages the dissemination of true news, reduces the sharing of false news, and enhances perceptions of accuracy. In other work, I investigate interventions to address other contemporary social issues facing consumers such as the marketing of diversity and inclusion, and environmental social governance. 
+Can marketing science be leveraged to address important social issues facing consumers? This is the central question motivating my research and academic career, which has focused on the intersection of marketing, consumer behavior, and social impact issues. In my job market paper, I study a decentralized platform-level intervention that encourages the dissemination of true news, reduces the sharing of false news, and enhances perceptions of news accuracy. In other work, I investigate interventions to address other contemporary social issues facing consumers such as the marketing of diversity and inclusion, and environmental social governance. 
 
 As an educator, I have experience teaching students across a variety of educational environments. I have taught young students (elementary and middle schoolers), young-adults (undergraduate business school students), and I have assisted graduate courses for professionals (part-time Executive MBAs and full-time MBAs). I believe teaching and mentorship are essential to being a well-rounded academic. 
 
@@ -36,7 +36,7 @@ Prior to joining the Questrom School of Business, I worked as a behavioral resea
 ### Research Streams
 - Social Impact
   - Misinformation
-  - Diversity, Equity, & Inclusion
+  - Equity
   - Environmental Social Governance
 
 ### Methodology
