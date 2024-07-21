@@ -5,7 +5,7 @@ authors:
 - "Nina Mazar"
 - "Tejovan Parker"
 - "Gordon Pennycook"
-- "Dave Rand"
+- "David Rand"
 - "and Marshall Van Alstyne"
 date: ""
 doi: ""
