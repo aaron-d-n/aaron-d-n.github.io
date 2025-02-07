@@ -49,6 +49,8 @@ jobs:
             --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: Verify build output
         run: ls -al ./public
+      - name: Verify artifact directory
+        run: find ./public -type f
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
@@ -62,6 +64,8 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
     steps:
+      - name: List uploaded artifacts
+        run: ls -al ${{ runner.temp }}
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v3
