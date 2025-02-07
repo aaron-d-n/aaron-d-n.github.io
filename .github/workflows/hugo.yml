@@ -64,8 +64,15 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
     steps:
-      - name: List uploaded artifacts
+      - name: List uploaded artifacts in runner temp
         run: ls -al ${{ runner.temp }}
+      - name: List uploaded artifacts in workflow temp
+        run: ls -al ${{ runner.temp }}/_github_workflow
+      - name: List artifacts from GitHub API
+        run: |
+          curl -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+          -H "Accept: application/vnd.github.v3+json" \
+          https://api.github.com/repos/${{ github.repository }}/actions/runs/${{ github.run_id }}/artifacts
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v3
