@@ -53,6 +53,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
+          name: github-pages
 
   deploy:
     environment:
@@ -66,4 +67,5 @@ jobs:
         uses: actions/deploy-pages@v3
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          artifact_name: github-pages
           timeout: 600000  # Set timeout to 10 minutes
